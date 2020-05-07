@@ -12,4 +12,15 @@
     <string name="menu_slideshow">Slideshow</string>
 
     <string name="home_second">Home Second</string>
+    <string name="login">LOGIN</string>
+    <string name="jony">JoneyB</string>
+    <string name="jonyEmail">ferasdev@gmail.com</string>
+    <string name="pleaseLog">Please Log In !</string>
+    <string name="message">Message:</string>
+    <string name="email">email</string>
+    <string name="signup">SIGN UP HERE</string>
+    <string name="noLogin">Don\'t have an accoutn?</string>
+    <string name="createuser">CREATE USER</string>
+    <string name="tap">Tap to generate user avatar</string>
+    <string name="generatecolor">GENERATE BACKGROUND COLOR</string>
 </resources>
